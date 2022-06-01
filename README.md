@@ -14,6 +14,15 @@ Main Features
   * No wires to solder in like on non-plated-through protoboard
 * Allows for much more dense layout
 
+4-Layer Variant by Evidlo
+-------------------------
+I've created a 4-layer variant from scratch which uses the two middle planes to allow any of the vias on the 0.1" grid to be connected to either plane via two solder bridges.
+
+![](top.png)
+![](bottom.png)
+![](top_zoom.png)
+![](bottom_zoom.png)
+
 Supported Packages
 ------------------
 
